@@ -2,6 +2,12 @@
 -e .
 
 # external requirements
+spotipy
+umap-learn
+numpy
+pandas
+seaborn
+hdbscan
 click
 Sphinx
 coverage
