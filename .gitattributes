@@ -1,4 +1,4 @@
 *.ipynb filter=remove-notebook-output
 
 # Exclude html graphs from being included in GitHub repo lang stats
-reports/figures/* linguist-vendored=false
+reports/figures/* linguist-vendored
