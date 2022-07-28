@@ -1,1 +1,5 @@
 *.ipynb filter=remove-notebook-output
+
+# Exclude html graphs from being included in GitHub repo lang stats
+track_features_radar_chart_2_monthly_periods.html linguist-vendored=false
+track_features_radar_chart_yearly_playlists.html linguist-vendored=false
